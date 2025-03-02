@@ -4,7 +4,7 @@
 
 # Welcome to the Angler Corner!
 
-A simple leaderboard app with a hall of fame, a queue, and a modifiable points system!
+A simple leaderboard app with a hall of fame, a queue, and a non-destructive form of data-handling!
 Please feel free to modify this project into any kind of leaderboard you like! I just made it with [A Simple Fishing World](https://vrclist.com/world/774958) on VRChat in mind!
 
 You can test the app with TestFlight if you'd like! Link is here: [Angler Corner on TestFlight](https://testflight.apple.com/join/s4r9QPQS)
