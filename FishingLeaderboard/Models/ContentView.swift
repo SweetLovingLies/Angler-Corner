@@ -1,13 +1,5 @@
 //
 //  ContentView.swift
-//  FishingLeaderboard
-//
-//  Created by Morgan Harris on 2/26/25.
-//
-
-
-//
-//  ContentView.swift
 //  LockInFinal
 //
 //  Created by Danielle Abrams on 10/11/24.
